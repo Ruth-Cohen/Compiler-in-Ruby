@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{325B8569-0C7C-4A6A-8AF8-89C3B6BC9E74}") = "exe4_debby_tamar", "exe4_debby_tamar\exe4_debby_tamar.stproj", "{C430ECBE-A2C9-4C45-831E-1C619115B94E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AnyCPU = Debug|AnyCPU
+		Release|AnyCPU = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C430ECBE-A2C9-4C45-831E-1C619115B94E}.Debug|AnyCPU.ActiveCfg = Debug|AnyCPU
+		{C430ECBE-A2C9-4C45-831E-1C619115B94E}.Debug|AnyCPU.Build.0 = Debug|AnyCPU
+		{C430ECBE-A2C9-4C45-831E-1C619115B94E}.Release|AnyCPU.ActiveCfg = Release|AnyCPU
+		{C430ECBE-A2C9-4C45-831E-1C619115B94E}.Release|AnyCPU.Build.0 = Release|AnyCPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

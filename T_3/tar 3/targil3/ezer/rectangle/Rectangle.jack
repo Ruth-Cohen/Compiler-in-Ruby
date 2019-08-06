@@ -1,0 +1,17 @@
+class Rectangle{
+	field int width;
+	field int height;
+	
+	constructor Rectangle new(int w,int h){
+		let width=w;
+		let height=h;
+		return this;
+	}
+	
+	method void print()
+	{
+		do Screen.drawRectangle(0,0,width,height);
+		return;
+		
+	}
+}

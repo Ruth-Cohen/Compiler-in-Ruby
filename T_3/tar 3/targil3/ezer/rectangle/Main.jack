@@ -1,0 +1,30 @@
+/** 
+רות שפנייר 316213164
+חוה אדלר 315582403
+ **/
+class Main {
+    function void main() {
+        var int width, height, temp, counter;
+		var Rectangle rect;		
+		let temp = 1;
+		let counter = 0;
+		let temp = Keyboard.readInt("to drow rectangle 1, to end press any key ");
+
+		while (temp = 1){
+		let height = Keyboard.readInt("height: ");
+		let width = Keyboard.readInt("width: ");
+		do Screen.clearScreen();
+		let rect = Rectangle.new(height,width);
+		do rect.print();		
+		do Output.println();
+		let temp = Keyboard.readInt("to continue press 1, to end press any key ");
+		let counter = counter + 1;
+	}
+	do Output.printString("you drew ");
+	do Output.printInt(counter);
+	do Output.printString(" Rectangles.");
+	do Output.println();
+	do Output.printString("Good Bye!!!!");
+	return;
+    }
+}
